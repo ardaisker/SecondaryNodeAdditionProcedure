@@ -1,7 +1,7 @@
 # Secondary Node Addition Procedure
 This project simulates the Secondary Node Addition procedure betweeen MN , SN and MME Nodes.
 
-![Image](https://im.ge/i/Q16Ps6)
+![Image](https://github.com/ardaisker/SecondaryNodeAdditionProcedure/blob/main/MNSNProcedure.jpg?raw=true)
 
 ## Project Prequisites
 Python 3.6
