@@ -8,6 +8,12 @@ Python 3.6
 ## Installation
 Clone the repository to your local file ([Clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)) , 
 
+# Demo
+A demo video for the project :  [https://youtu.be/bdMS8DcUUMQ](https://youtu.be/bdMS8DcUUMQ) 
+
+
+
+
 ## Usage
 
 
